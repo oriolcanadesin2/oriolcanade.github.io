@@ -1,0 +1,29 @@
+{
+  "ca": {
+    "navbar.home": "Inici",
+    "navbar.about": "Sobre mi",
+    "navbar.projects": "Java & Spring",
+    "navbar.collaborate": "Col·labora",
+    "about.heading": "Sobre Oriol Canadés",
+    "about.description": "...",
+    "footer.rights": "Tots els drets reservats."
+  },
+  "es": {
+    "navbar.home": "Inicio",
+    "navbar.about": "Acerca de",
+    "navbar.projects": "Java & Spring",
+    "navbar.collaborate": "Colabora",
+    "about.heading": "Acerca de Oriol Canadés",
+    "about.description": "...",
+    "footer.rights": "Todos los derechos reservados."
+  },
+  "en": {
+    "navbar.home": "Home",
+    "navbar.about": "About",
+    "navbar.projects": "Java & Spring",
+    "navbar.collaborate": "Collaborate",
+    "about.heading": "About Oriol Canadés",
+    "about.description": "...",
+    "footer.rights": "All rights reserved."
+  }
+}
